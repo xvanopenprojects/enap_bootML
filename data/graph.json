@@ -1,0 +1,516 @@
+{
+    "sistema_SIAPE": {
+        "FPATMOVRUB": {
+            "FPATMOVRUB": 50,
+            "FPATPEQMSE": 1
+        },
+        "FPATPEQMSE": {
+            "FPATPEQMSE": 890,
+            "CAINCESSAO": 1,
+            "FPCLPAGTO": 6,
+            "CDCOINDPES": 2,
+            "ADAUTORIFOADAUTORIZA": 1,
+            "CDINTITSAU": 1,
+            "GRATIFICACCONCESSAO": 1,
+            "PROGRESSAOCAALPROGMA": 1,
+            "CALIREDIST": 1,
+            "CDAUCRITRH": 2,
+            "CDAUPSCRIT": 1,
+            "INTEGRACAOCAEEINTGRS": 1,
+            "GRPROCESSOGRATUAPROCGRIAPROADM": 1,
+            "GRPROCESSOGRPROAUPAGGRAZPGTO": 2
+        },
+        "CAINCESSAO": {
+            "CARRSERCED": 1,
+            "FPCLPAGTO": 1
+        },
+        "CARRSERCED": {
+            "CAEXLOCEXE": 1
+        },
+        "CAEXLOCEXE": {
+            "CAEXLOCEXE": 1,
+            "CAINREQUIS": 1
+        },
+        "CAINREQUIS": {
+            "CAEXFERIAS": 1,
+            "CAINCESSAO": 1
+        },
+        "CAEXFERIAS": {
+            "CAIFFERIAS": 1
+        },
+        "CAIFFERIAS": {
+            "FPATPEQMSE": 1,
+            "CAIFFERIAS": 8,
+            "CAPRFERIAS": 1,
+            "FPCLPAGTO": 1
+        },
+        "CAPRFERIAS": {
+            "CAPRFERIAS": 30,
+            "FPCLPAGTO": 5,
+            "CDCOPRESUB": 1,
+            "CDINREGISTO92116OE": 1,
+            "CDEXCADASTO92116ZH": 1,
+            "CDCOINDPES": 1,
+            "FPCOFICHAF": 1,
+            "ATUASUPLINFPMOVSUPIN": 1
+        },
+        "FPCLPAGTO": {
+            "FPCOFICHAF": 43,
+            "FPCLPAGTO": 216,
+            "ADAUTORIFOADAUTORIZA": 1,
+            "CDCOINDFUN": 7,
+            "FPATPEQMSE": 5,
+            "CDINFORMRH": 2,
+            "CONSPENSIOFPCOPSFICF": 1,
+            "CAINCESSAO": 1,
+            "CDAUCRITRH": 1,
+            "EXONERACAOCAVADIRFEX": 2,
+            "INTEGRACAOCAEEINTGRS": 9,
+            "CDCOPRESUB": 8,
+            "DEPENDENTECDIADEPEND": 3,
+            "CAIFEXERC": 2,
+            "CDINTITSAU": 3,
+            "ALTERACAO": 2,
+            "CACAFERIAS": 2,
+            "ATEMAIL": 2,
+            "CANOPFUDEX": 1,
+            "CAIASERVID": 3,
+            "FOLHA": 1,
+            "CAPRFERIAS": 3,
+            "CDINREGISTO92116OE": 1,
+            "CDCOINDPES": 6,
+            "ATUASUPLINFPMOVSUPIN": 3,
+            "FPEMDEREND": 1
+        },
+        "FPCOFICHAF": {
+            "FPCOFICHAF": 328,
+            "FPCLPAGTO": 28,
+            "FPATPEQMSE": 3,
+            "GRATIFICACCONCESSAO": 1,
+            "PROGRESSAOCAINPROGMA": 1,
+            "CDCOINDFUN": 7,
+            "ALTERACAO": 3,
+            "CDCOINDPES": 6,
+            "CDINTITSAU": 3,
+            "EXONERACAOCAVADIRFEX": 1,
+            "CDCOPRESUB": 2,
+            "ATUASUPLINFPMOVSUPIN": 2,
+            "CAPRFERIAS": 1,
+            "CANOPFUDEX": 2,
+            "INTEGRACAOCADTMATFP": 1,
+            "FOLHA": 1,
+            "CAITFERIAS": 1,
+            "CAIFFERIAS": 1,
+            "INCLUSAO": 1,
+            "EMITEFOLHAFPEMFICHAF": 1
+        },
+        "ADAUTORIFOADAUTORIZA": {
+            "CDINTITSAU": 1,
+            "GRATIFICACTABELAGRAT": 1,
+            "CONSPENSIOFPCOPSFICF": 1
+        },
+        "CDINTITSAU": {
+            "CDINTITSAU": 74,
+            "CALIREDIST": 15,
+            "CDCOINDFUN": 8,
+            "CACALIBRED": 1,
+            "FPCLPAGTO": 4,
+            "INTEGRACAOCAEEINTGRS": 2
+        },
+        "CALIREDIST": {
+            "CALIREDIST": 9,
+            "CDCOINDFUN": 5,
+            "GRATIFICACCONCESSAO": 8,
+            "CDINTITSAU": 7,
+            "CAIASERVID": 1,
+            "CACAFERIAS": 1
+        },
+        "CDCOINDFUN": {
+            "CDCOINDFUN": 364,
+            "CDINTITSAU": 10,
+            "CDAUPSCRIT": 4,
+            "CDCOINDPES": 12,
+            "GRATIFICACTABELAGRAT": 1,
+            "FPATPEQMSE": 1,
+            "FPCLPAGTO": 4,
+            "CAATDADBCO": 2,
+            "FPCOFICHAF": 7,
+            "CACAFERIAS": 1,
+            "CACALIBRED": 1,
+            "CAIASERVID": 4,
+            "CALIREDIST": 1,
+            "CDINREGISTO92116OE": 11,
+            "INTEGRACAOCAEEINTGRS": 1,
+            "ATEMAIL": 1
+        },
+        "GRATIFICACCONCESSAO": {
+            "CALIREDIST": 2,
+            "CDINTITSAU": 3,
+            "FPCLPAGTO": 1,
+            "CDINFORMRH": 1,
+            "INTEGRACAOCAEEINTGRS": 1,
+            "CDCOINDFUN": 1,
+            "CDALFUNC": 1
+        },
+        "PROGRESSAOCAINPROGMA": {
+            "PROGRESSAOCAINPROGMA": 47,
+            "FPCLPAGTO": 1,
+            "FPATPEQMSE": 3,
+            "CDCOINDFUN": 1
+        },
+        "CDAUPSCRIT": {
+            "FPATPEQMSE": 3,
+            "CDAUPSCRIT": 4,
+            "FPCLPAGTO": 1,
+            "AFASTAMENT": 1,
+            "FPCOFICHAF": 1
+        },
+        "CDCOINDPES": {
+            "FPCOFICHAF": 3,
+            "CDCOINDPES": 103,
+            "CDCOINDFUN": 7,
+            "FPCLPAGTO": 2,
+            "CDAUPSCRIT": 1,
+            "ALTERACAO": 2,
+            "CACAFERIAS": 1,
+            "ATEMAIL": 3,
+            "CDINREGIST": 1,
+            "CONSPENSIOFPCOPSFICF": 1,
+            "CAALEXECOL": 1,
+            "EMITEFOLHAFPEMFICHAF": 2,
+            "CAPRFERIAS": 2,
+            "CAIFFERIAS": 1
+        },
+        "PROGRESSAOCATRPOSIC": {
+            "PROGRESSAOCATRPOSIC": 5,
+            "PROGRESSAOCAINPROGMA": 1
+        },
+        "CACALIBRED": {
+            "CALIREDIST": 2,
+            "CDINTITSAU": 1,
+            "CAIASERVID": 1,
+            "CAALENDRH": 1
+        },
+        "GRATIFICACTABELAGRAT": {
+            "GRATIFICACTABELAGRAT": 13,
+            "FPATPEQMSE": 1
+        },
+        "CDINFORMRH": {
+            "CDATTITREC": 3
+        },
+        "CDATTITREC": {
+            "CDATTITREC": 3,
+            "FPCOFICHAF": 1,
+            "FPCLPAGTO": 2
+        },
+        "PROGRESSAOCAALPROGMA": {
+            "PROGRESSAOCAALPROGMA": 46
+        },
+        "CDAUCRITRH": {
+            "CDAUCRITRH": 2,
+            "CDINTITSAU": 1
+        },
+        "CONSPENSIOFPCOPSFICF": {
+            "CONSPENSIOFPCOPSFICF": 45,
+            "CDCOINDFUN": 1,
+            "CACALIBRED": 1,
+            "AFASTAMENT": 1
+        },
+        "CAATDADBCO": {
+            "CDCOINDFUN": 2,
+            "CAATDADBCO": 3,
+            "CDCOINDPES": 1,
+            "CDATALIIND": 1,
+            "INTEGRACAOCAEEINTGRS": 2
+        },
+        "ALTERACAO": {
+            "ALTERACAO": 1576,
+            "FPATPEQMSE": 1,
+            "CDCOINDFUN": 1,
+            "FPCLPAGTO": 1,
+            "INCLUSAO": 27,
+            "CACAFERIAS": 1,
+            "PERDADIREICAIFPERFER": 1,
+            "CAIFFERIAS": 1,
+            "CAALEXECOL": 2,
+            "ADDIVSISUO": 1,
+            "CAPRFERIAS": 1,
+            "FPCOFICHAF": 1
+        },
+        "CACAFERIAS": {
+            "CACAFERIAS": 93,
+            "FPCOFICHAF": 1,
+            "INTEGRACAOCAEEINTGRS": 2,
+            "CAANCANFER": 1,
+            "FPCLPAGTO": 1,
+            "ALTERACAO": 1,
+            "CAPRFERIAS": 2,
+            "CAALEXECOL": 1,
+            "DPEDITADL": 2,
+            "CAALFERIAS": 1
+        },
+        "CAIASERVID": {
+            "CALIREDIST": 1,
+            "CAIASERVID": 8,
+            "CACALIBRED": 1,
+            "GRATIFICACCONCESSAO": 1,
+            "CDAUPSCRIT": 1,
+            "CAEDHTITVG": 1,
+            "INTEGRACAOCADTMATFP": 1,
+            "INTEGRACAOCAEEINTGRS": 2,
+            "FPCLPAGTO": 2,
+            "CDCOINDPES": 1
+        },
+        "CAALENDRH": {
+            "CAIASERVID": 1,
+            "CAALENDRH": 2
+        },
+        "CDALFUNC": {
+            "CDALFUNC": 14,
+            "CAINREQUIS": 1
+        },
+        "INCLUSAO": {
+            "INCLUSAO": 974,
+            "GRPROCESSOGRPROAUPAGGRAZPGTO": 1,
+            "FPCLPAGTO": 1,
+            "CACAFERIAS": 1,
+            "ALTERACAO": 21,
+            "FPCOFICHAF": 1,
+            "FPATPEQMSE": 1
+        },
+        "DEPENDENTECDIADEPEND": {
+            "CACAFERIAS": 1,
+            "DEPENDENTECDIADEPEND": 4,
+            "FPCLPAGTO": 3,
+            "INTEGRACAOCAEEINTGRS": 1
+        },
+        "AFASTAMENT": {
+            "AFASTAMENT": 1,
+            "FPCLPAGTO": 1
+        },
+        "CDINREGISTO92116OE": {
+            "CDCOINDFUN": 11,
+            "INTEGRACAOCAEEINTGRS": 1,
+            "FPCLPAGTO": 6,
+            "CDINREGISTO92116OE": 2
+        },
+        "CAEDHTITVG": {
+            "CAEDHTITVG": 3,
+            "CAATDADSIA": 1,
+            "INTEGRACAOCAEEINTGRS": 1,
+            "CAALEXECOL": 1
+        },
+        "CAATDADSIA": {
+            "ATEMAIL": 1,
+            "CAATDADBCO": 1,
+            "FPATPEQMSE": 1
+        },
+        "ATEMAIL": {
+            "CAATDADBCO": 1,
+            "CAPRFERIAS": 1,
+            "CDINREGISTO92116OE": 1,
+            "ATEMAIL": 5,
+            "ALTERACAO": 3,
+            "CDCOINDPES": 3,
+            "CAIASERVID": 1
+        },
+        "CDATALIIND": {
+            "INTEGRACAOCAEEINTGRS": 1,
+            "CDCOINDFUN": 1
+        },
+        "INTEGRACAOCAEEINTGRS": {
+            "FPCLPAGTO": 21,
+            "CAIASERVID": 1,
+            "EXONERACAOCAVADIRFEX": 1,
+            "CAEDHTITVG": 1,
+            "INTEGRACAOCAEEINTGRS": 26,
+            "FPCOFICHAF": 2,
+            "ATUASUPLINFPMOVSUPIN": 1,
+            "CDATALIIND": 1,
+            "CAPRFERIAS": 1,
+            "CDINREGISTO92116OE": 1,
+            "FPATPEQMSE": 2,
+            "CAALEXECOL": 1
+        },
+        "EXONERACAOCAVADIRFEX": {
+            "FPCLPAGTO": 1,
+            "EXONERACAOCAVADIRFEX": 8,
+            "CAEDHTITVG": 1,
+            "CAALEXECOL": 1,
+            "INTEGRACAOCAEEINTGRS": 1,
+            "AFASTAMENT": 1,
+            "CANOPFUDEX": 2
+        },
+        "INTEGRACAOCADTMATFP": {
+            "INTEGRACAOCARTMATFP": 1,
+            "CAEXEXRCER": 1
+        },
+        "INTEGRACAOCARTMATFP": {
+            "INTEGRACAOCAEEINTGRS": 2
+        },
+        "CDCOPRESUB": {
+            "INTEGRACAOCAEEINTGRS": 1,
+            "FPCLPAGTO": 11,
+            "CDCOPRESUB": 2,
+            "CAIFEXERC": 2,
+            "FPCOFICHAF": 1
+        },
+        "CAALEXECOL": {
+            "INTEGRACAOCAEEINTGRS": 6,
+            "CAALEXECOL": 2
+        },
+        "CAIFEXERC": {
+            "ATUASUPLINFPMOVSUPIN": 1,
+            "FPCLPAGTO": 1,
+            "CDCOPRESUB": 3
+        },
+        "ATUASUPLINFPMOVSUPIN": {
+            "ATUASUPLINFPMOVSUPIN": 26,
+            "FPCLPAGTO": 5,
+            "CANOPFUDEX": 1,
+            "CAIFEXERC": 1,
+            "FPCOFICHAF": 1
+        },
+        "CANOPFUDEX": {
+            "CANOPFUDEX": 5,
+            "INTEGRACAOCAEEINTGRS": 5,
+            "EXONERACAOCAVADIRFEX": 2,
+            "CAATDADSIA": 1
+        },
+        "CAEXEXRCER": {
+            "INTEGRACAOCARTMATFP": 1
+        },
+        "FOLHA": {
+            "CANOPFUDEX": 1,
+            "FOLHA": 3,
+            "CDEXCADASTO92116ZH": 1
+        },
+        "CDEXCADASTO92116ZH": {
+            "FPCOFICHAF": 1,
+            "FPCLPAGTO": 1,
+            "CDEXCADASTO92116ZH": 2,
+            "CDINREGISTO92116OE": 1
+        },
+        "GRPROCESSOGRPROAUPAGGRAZPGTO": {
+            "GRPROCESSOGRDESBLQRH": 122,
+            "GRPROCESSOGRPROAUPAGGRAZPGTO": 2,
+            "GRPROCESSOGRDESBSPOA": 2,
+            "GRPROCESSOGRPROAUPAGGRDZPGTO": 1
+        },
+        "GRPROCESSOGRDESBLQRH": {
+            "GRPROCESSOGRPROAUPAGGRAZPGTO": 106,
+            "GRPROCESSOGRDESBLQRH": 313,
+            "GRPROCESSOGRDESBSPOA": 2
+        },
+        "GRPROCESSOGRDESBSPOA": {
+            "GRPROCESSOGRPROAUPAGGRAZPGTO": 2
+        },
+        "GRPROCESSOGRPROAUPAGGRDZPGTO": {
+            "GRPROCESSOGRPROAUPAGGRAZPGTO": 1
+        },
+        "DPPOBLBS": {
+            "DPPOBLBS": 23,
+            "ALTERACAO": 1
+        },
+        "CAANCANFER": {
+            "CAANCANFER": 5
+        },
+        "PERDADIREICAREPERFER": {
+            "PERDADIREICAREPERFER": 15,
+            "ALTERACAO": 1
+        },
+        "GRPROCESSOGRATUAPROCGRIAPROADM": {
+            "GRINBENEF": 1
+        },
+        "GRINBENEF": {
+            "GRPROCESSOGRPROAUPAGGRAZPGTO": 1
+        },
+        "CDALCONPGDN92116W4": {
+            "CDALCONPGDN92116W4": 547,
+            "FPCLPAGTO": 1,
+            "ALTERACAO": 3
+        },
+        "CDEXCADAST": {
+            "CDEXCADAST": 5,
+            "ALTERACAO": 1
+        },
+        "PERDADIREICAIFPERFER": {
+            "PERDADIREICAIFPERFER": 19
+        },
+        "CAITFERIAS": {
+            "CAITFERIAS": 8,
+            "REMOCAOLOTCAROCOLHIS": 1,
+            "ATEMAIL": 1,
+            "CACAINTFER": 1
+        },
+        "REMOCAOLOTCAROCOLHIS": {
+            "INTEGRACAOCAEEINTGRS": 2,
+            "REMOCAOLOTCAROCOLHIS": 1
+        },
+        "COMPROREND": {
+            "CDCOINDPES": 3,
+            "COMPROREND": 3
+        },
+        "CDINREGIST": {
+            "CAIFFERIAS": 1
+        },
+        "FPCOMARGCO": {
+            "FPCOMARGCO": 1
+        },
+        "ADDIVSISUO": {
+            "ADDIVSISUO": 1
+        },
+        "FPEMDEREND": {
+            "COMPROREND": 1,
+            "GRPROCESSOGRPROAUPAGGRAZPGTO": 1
+        },
+        "CDATAUXTRA": {
+            "FPCLPAGTO": 1
+        },
+        "DPEDITADL": {
+            "CACAFERIAS": 2
+        },
+        "CAALFERIAS": {
+            "CAALFERIAS": 6,
+            "FPATPEQMSE": 1
+        },
+        "CACAINTFER": {
+            "CAITFERIAS": 1
+        },
+        "EMITEFOLHAFPEMFICHAF": {
+            "EMITEFOLHAFPEMFICHAF": 5,
+            "CDCOINDFUN": 1
+        },
+        "CAALREDIST": {
+            "CAALREDIST": 1
+        },
+        "ESPEL": {
+            "ESPEL": 2
+        },
+        "CONVO": {
+            "ALTERACAO": 1
+        },
+        "CDATDADBAN": {
+            "CDATDADBAN": 2
+        },
+        "DEPENDENTECDEXDEPEND": {
+            "DEPENDENTECDEXDEPEND": 1
+        }
+    },
+    "sistema_": {},
+    "sistema_FOLHA": {
+        "FPATMOVFIN": {
+            "FPATMOVFIN": 111
+        }
+    },
+    "sistema_SIAPECAD": {
+        "DADOSPESS": {
+            "DADOSPESS": 63
+        }
+    },
+    "sistema_EORG": {
+        "PREVFUNCAOADRMPREFUNO92116YS": {
+            "PREVFUNCAOADRMPREFUNO92116YS": 1
+        }
+    }
+}

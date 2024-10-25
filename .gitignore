@@ -5,3 +5,4 @@ data/dataset/.*
 data/dataset/_*
 **/__pycache__/*
 .vscode/
+data/graph/*
