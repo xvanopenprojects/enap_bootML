@@ -1,3 +1,7 @@
 files/
 venv/
 .env
+data/dataset/.*
+data/dataset/_*
+**/__pycache__/*
+.vscode/
